@@ -1,5 +1,6 @@
 # MTANet
 MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding <br>
+(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749834)
 # Citation
 @ARTICLE{<br>
   author={Wujie Zhou, Shaohua Dong, Jingsheng Lei and Lu Yu},<br>
